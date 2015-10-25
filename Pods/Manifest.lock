@@ -1,0 +1,55 @@
+PODS:
+  - Alamofire (3.0.0)
+  - Braintree (3.9.6):
+    - Braintree/API (= 3.9.6)
+    - Braintree/Coinbase (= 3.9.6)
+    - Braintree/Drop-In (= 3.9.6)
+    - Braintree/Payments (= 3.9.6)
+    - Braintree/PayPal (= 3.9.6)
+    - Braintree/UI (= 3.9.6)
+    - Braintree/Venmo (= 3.9.6)
+  - Braintree/API (3.9.6)
+  - Braintree/Coinbase (3.9.6):
+    - Braintree/API
+  - Braintree/Drop-In (3.9.6):
+    - Braintree/API
+    - Braintree/Coinbase
+    - Braintree/Payments
+    - Braintree/PayPal
+    - Braintree/UI
+    - Braintree/Venmo
+  - Braintree/Payments (3.9.6):
+    - Braintree/API
+    - Braintree/Coinbase
+    - Braintree/PayPal
+    - Braintree/Venmo
+  - Braintree/PayPal (3.9.6):
+    - Braintree/API
+    - Braintree/UI
+  - Braintree/UI (3.9.6):
+    - Braintree/API
+  - Braintree/Venmo (3.9.6):
+    - Braintree/API
+  - Firebase (2.4.2)
+  - GeoFire (1.1.2):
+    - Firebase (~> 2.2)
+  - SwiftSpinner (0.8.0)
+  - SwiftyJSON (2.3.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Braintree
+  - Firebase
+  - GeoFire
+  - SwiftSpinner
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: b61782387f81bcc538a0284cf2bb5d7995cd0a80
+  Braintree: 74f0bd85743c2227147c361cc2c5c9aefe083ae8
+  Firebase: 5e898ed5012c81d28ca5fae1113c6b61a172bc6d
+  GeoFire: 03db4e390a4cf3ff97422f19eb71ab1aa7d947dd
+  SwiftSpinner: 11c2c5ec7443d92f3026d3067ca8a91d4adef13f
+  SwiftyJSON: 8d6b61a70277ef2a5d710d372e06e7e2d87fb9e4
+
+COCOAPODS: 0.39.0
