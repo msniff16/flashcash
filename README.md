@@ -1,4 +1,4 @@
-# flashcash
+# FlashCash
 Request cash anytime, anywhere.
 If you're in a spot when you need cash and don't want to search around for an ATM just to pay gross ATM fees, use FlashCash to have your cash delivered to your location right as you need it. 
 
